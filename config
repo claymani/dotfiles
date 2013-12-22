@@ -1,0 +1,7 @@
+Host eniac
+	HostName eniac.seas.upenn.edu
+	User claymani
+
+Host git
+	HostName github.com
+	User git
